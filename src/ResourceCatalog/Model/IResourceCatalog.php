@@ -543,7 +543,29 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZJLXX'],
             self::TYPE['QTXZZFXX'],
             self::TYPE['QYHYSJ'],
-        )
+        ),
+        IUserGroup::ID['XLYJ'] => array(),
+        IUserGroup::ID['XQXJ'] => array(),
+        IUserGroup::ID['XTJJ'] => array(),
+        IUserGroup::ID['XXFJYDD'] => array(),
+        IUserGroup::ID['XHYZ'] => array(),
+        IUserGroup::ID['XZZZ'] => array(),
+        IUserGroup::ID['XYHZ'] => array(),
+        IUserGroup::ID['XFJZ'] => array(),
+        IUserGroup::ID['XDHZ'] => array(),
+        IUserGroup::ID['XWCZ'] => array(),
+        IUserGroup::ID['XMJZ'] => array(),
+        IUserGroup::ID['XCJX'] => array(),
+        IUserGroup::ID['XXJX'] => array(),
+        IUserGroup::ID['XCWZ'] => array(),
+        IUserGroup::ID['XHGZ'] => array(),
+        IUserGroup::ID['XAPZ'] => array(),
+        IUserGroup::ID['XXJZZYKFQ'] => array(),
+        IUserGroup::ID['XHGCYJJQ'] => array(),
+        IUserGroup::ID['XGXZ'] => array(),
+        IUserGroup::ID['XCGZ'] => array(),
+        IUserGroup::ID['XHLX'] => array(),
+        IUserGroup::ID['XPSZ'] => array()
     );
 
     const STATUS_NORMAL = 0;
