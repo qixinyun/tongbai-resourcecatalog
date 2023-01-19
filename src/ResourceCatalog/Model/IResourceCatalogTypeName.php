@@ -82,7 +82,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJF'] => '行政给付信息',
         IResourceCatalog::TYPE['JDJC'] => '监督检查信息',
         IResourceCatalog::TYPE['XZJL'] => '行政奖励信息',
-        IResourceCatalog::TYPE['QTXZZF'] => '其他行政执法信息',
+        IResourceCatalog::TYPE['QTXZZF'] => '其他行政管理信息',
 
         IResourceCatalog::TYPE['HEIMDXX'] => '黑名单信息',
         IResourceCatalog::TYPE['HONGMDXX'] => '红名单信息',
