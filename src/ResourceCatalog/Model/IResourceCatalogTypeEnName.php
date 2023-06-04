@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeEnName
@@ -74,7 +75,6 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
         IResourceCatalog::TYPE['XYTXHMD'] => 'xytxhmd',
         IResourceCatalog::TYPE['SYDWJBXX'] => 'sydwjbxx',
-        
         IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
         IResourceCatalog::TYPE['XZZS'] => 'xzzs',
         IResourceCatalog::TYPE['XZCJ'] => 'xzcj',
@@ -86,13 +86,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['HEIMDXX'] => 'heimdxx',
         IResourceCatalog::TYPE['HONGMDXX'] => 'hongmdxx',
         IResourceCatalog::TYPE['HYFJFLJG'] => 'hyfjfljg',
-
         IResourceCatalog::TYPE['QYHYSJ'] => 'qyhysj',
-
         IResourceCatalog::TYPE['TEST'] => 'test',
         IResourceCatalog::TYPE['DWYSZCXX'] => 'dwyszcxx',
         IResourceCatalog::TYPE['TQMYQYZK'] => 'tqmyqyzk',
-
         IResourceCatalog::TYPE['ZFCGHT'] => 'zfcght',
         IResourceCatalog::TYPE['GGZYJYHT'] => 'ggzyjyht',
         IResourceCatalog::TYPE['GQCGHT'] => 'gqcght',
@@ -100,6 +97,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QTHT'] => 'qtht',
         IResourceCatalog::TYPE['XYSFSQ'] => 'xysfsq',
         IResourceCatalog::TYPE['CCJCJG'] => 'ccjcjg',
+        IResourceCatalog::TYPE['SHJJLYHT'] => 'shjjlyht',
         //@position
     );
 }

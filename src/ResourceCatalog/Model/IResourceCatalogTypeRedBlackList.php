@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeRedBlackList
@@ -74,7 +75,6 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['XYTXHMD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['SYDWJBXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-
         IResourceCatalog::TYPE['XZQZ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['XZZS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['XZCJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
@@ -86,13 +86,10 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['HONGMDXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['HEIMDXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
         IResourceCatalog::TYPE['HYFJFLJG'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-        
         IResourceCatalog::TYPE['QYHYSJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['DWYSZCXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['TQMYQYZK'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-
         IResourceCatalog::TYPE['ZFCGHT'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['GGZYJYHT'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['GQCGHT'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
@@ -100,6 +97,7 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['QTHT'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['XYSFSQ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['CCJCJG'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['SHJJLYHT'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }
